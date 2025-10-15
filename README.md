@@ -14,7 +14,7 @@ The **Model Context Protocol (MCP)** is an open protocol that enables AI assista
 
 - 🚀 **Asynchronous by design** - Built on asyncio for high performance
 - 🔧 **Extensible tool system** - Easily add custom tools and services
-- 📡 **Simple protocol** - Clean JSON-based communication
+- 📡 **Simple protocol** - Clean JSON-based communication over TCP
 - 🔌 **Client & Server** - Complete implementation of both sides
 
 ## Quick Start
